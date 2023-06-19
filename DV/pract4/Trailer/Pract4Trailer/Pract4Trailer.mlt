@@ -1,0 +1,742 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="6.23.0" title="Shotcut version 20.11.28" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <playlist id="main_bin" title="Shotcut version 20.11.28">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="xml_retain">1</property>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:00:41.400">
+    <property name="length">00:00:41.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:00:41.400"/>
+  </playlist>
+  <producer id="producer0" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter0" in="00:00:22.360" out="00:00:24.240">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter1" in="00:00:54.080" out="00:00:55.240">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter2" in="00:00:55.280" out="00:00:56.680">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter3" in="00:00:56.720" out="00:00:57.120">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter4" in="00:01:00.080" out="00:01:00.400">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter5" in="00:01:00.440" out="00:01:01.960">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="00:01:13.400">
+    <property name="length">00:01:13.440</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:26:29</property>
+    <property name="shotcut:hash">a1388dd4834b613b625528e85c56bce9</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-25-16.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter6" in="00:01:02.000" out="00:01:04.120">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="00:04:11.520">
+    <property name="length">00:04:11.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:31:12</property>
+    <property name="shotcut:hash">3e91ff2b5efb14b50a3a28f1f58115ad</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter7" in="00:02:43.920" out="00:02:45.240">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="00:04:11.520">
+    <property name="length">00:04:11.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:31:12</property>
+    <property name="shotcut:hash">3e91ff2b5efb14b50a3a28f1f58115ad</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter8" in="00:02:45.280" out="00:02:46.800">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="00:04:11.520">
+    <property name="length">00:04:11.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:31:12</property>
+    <property name="shotcut:hash">3e91ff2b5efb14b50a3a28f1f58115ad</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter9" in="00:02:46.840" out="00:02:51.160">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="00:04:11.520">
+    <property name="length">00:04:11.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:31:12</property>
+    <property name="shotcut:hash">3e91ff2b5efb14b50a3a28f1f58115ad</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter10" in="00:03:32.840" out="00:03:37.200">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="00:04:11.520">
+    <property name="length">00:04:11.560</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Videos/Captures/fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2021-01-13T13:31:12</property>
+    <property name="shotcut:hash">3e91ff2b5efb14b50a3a28f1f58115ad</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">fpsTest - MainScene - PC, Mac &amp; Linux Standalone - Unity 2019.4.9f1 Personal_ _DX11_ 2021-01-13 14-27-01.mp4</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter11" in="00:04:01.680" out="00:04:05.280">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-721 -558 3370 2022 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter12" out="00:00:05.240">
+      <property name="argument">prepare to have yours socks rocked off with
+
+
+ unity 
+fps 
+microgame
+
+
+ only on the unity editor engine!</property>
+      <property name="geometry">0 -5 1917 1085 1</property>
+      <property name="family">Copperplate Gothic Bold</property>
+      <property name="size">120</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:pointSize">48</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">video</property>
+    <blank length="00:00:04.160"/>
+    <entry producer="producer0" in="00:00:22.360" out="00:00:24.240"/>
+    <blank length="00:00:00.160"/>
+    <entry producer="producer1" in="00:00:54.080" out="00:00:55.240"/>
+    <blank length="00:00:00.240"/>
+    <entry producer="producer2" in="00:00:55.280" out="00:00:56.640"/>
+    <blank length="00:00:00.320"/>
+    <entry producer="producer3" in="00:00:56.760" out="00:00:57.120"/>
+    <blank length="00:00:00.440"/>
+    <entry producer="producer4" in="00:01:00.080" out="00:01:00.400"/>
+    <blank length="00:00:00.440"/>
+    <entry producer="producer5" in="00:01:00.440" out="00:01:01.960"/>
+    <blank length="00:00:00.320"/>
+    <entry producer="producer6" in="00:01:02.000" out="00:01:04.120"/>
+    <blank length="00:00:01.280"/>
+    <entry producer="producer7" in="00:02:43.920" out="00:02:45.240"/>
+    <blank length="00:00:00.240"/>
+    <entry producer="producer8" in="00:02:45.280" out="00:02:46.800"/>
+    <blank length="00:00:00.200"/>
+    <entry producer="producer9" in="00:02:46.840" out="00:02:51.160"/>
+    <blank length="00:00:00.800"/>
+    <entry producer="producer10" in="00:03:33.360" out="00:03:37.200"/>
+    <blank length="00:00:00.360"/>
+    <entry producer="producer11" in="00:04:01.680" out="00:04:05.280"/>
+    <blank length="00:00:00.960"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:05.240"/>
+  </playlist>
+  <producer id="producer13" in="00:00:00.000" out="00:00:43.080">
+    <property name="length">00:00:43.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Documents/Audacity/Teminite &amp; Panda Eyes - Highscore.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2021-01-13T12:21:26</property>
+    <property name="shotcut:hash">8016639ddb069220232b9300e8069e51</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Teminite &amp; Panda Eyes - Highscore.mp3</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <filter id="filter13" out="00:00:33.560">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:32.600=0;00:00:33.560=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="00:00:43.080">
+    <property name="length">00:00:43.120</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/enriq/Documents/Audacity/Teminite &amp; Panda Eyes - Highscore.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2021-01-13T12:21:26</property>
+    <property name="shotcut:hash">8016639ddb069220232b9300e8069e51</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">Teminite &amp; Panda Eyes - Highscore.mp3</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:33.560"/>
+    <blank length="00:00:00.120"/>
+    <entry producer="producer14" in="00:00:35.440" out="00:00:43.080"/>
+  </playlist>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter14" out="00:00:00.120">
+      <property name="argument">save</property>
+      <property name="geometry">0 405 1920 270 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter15" out="00:00:00.200">
+      <property name="argument">the</property>
+      <property name="geometry">0 405 1920 270 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter16" out="00:00:00.280">
+      <property name="argument">fucking</property>
+      <property name="geometry">0 405 1920 270 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter17" out="00:00:00.400">
+      <property name="argument">gamespace void??</property>
+      <property name="geometry">0 405 1920 270 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">E:/Downloads/download (3).jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-01-13T15:29:28</property>
+    <property name="shotcut:caption">download (3).jpeg</property>
+    <property name="shotcut:hash">d0f3a8178c2086c64c5efd47da2d1d5c</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">fades</property>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:03.880"/>
+    <blank length="00:00:02.160"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:00.120"/>
+    <blank length="00:00:01.200"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:00.200"/>
+    <blank length="00:00:01.400"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:00.280"/>
+    <blank length="00:00:01.200"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:00.400"/>
+    <blank length="00:00:27.960"/>
+    <entry producer="producer20" in="00:00:01.280" out="00:00:03.680"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.11.28" global_feed="1" in="00:00:00.000" out="00:00:41.400">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:trackHeight">50</property>
+    <property name="shotcut:scaleFactor">4.11903</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="audio"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>

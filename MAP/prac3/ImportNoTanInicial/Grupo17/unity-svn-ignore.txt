@@ -1,0 +1,7 @@
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+trunk/Library
+trunk/Temp
+unity-svn-ignore.txt

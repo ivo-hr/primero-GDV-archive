@@ -1,0 +1,13 @@
+ - Make program read the lvl00.txt (and any file w/ the same structure)
+  - able to do a crossword and a wordsearch
+
+- Display either the crossword or the wordsearch
+- Display the definitions
+- Display the done answers
+- Save score based on time
+
+? A time attack mode (tbc)
+
+- Good Main Menu UI
+- Good Gameplay UI
+

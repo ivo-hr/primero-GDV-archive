@@ -1,0 +1,94 @@
+# Visual Studio generated files
+.vs/
+*.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.dbmdl
+*.VC.db
+*.VC.opendb
+*.sdf
+*.ipch/
+*.opendb
+ipch/
+[Tt]humbs.db
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.csproj.user
+*.unityproj.user
+*.scc
+*.vstemplate
+*.wsdl
+*.wsp
+*.wss
+*.xsd
+*.xsx
+*.Generated_Code.*
+*.Designer.cs
+*.Designer.*.cs
+*.generated.cs
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uildAssetBundles/
+Assets/AssetStoreTools*
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Roslyn cache directories
+*.ide/
+
+# Unity3D generated files
+Assembly-CSharp-Editor.dll
+Assembly-CSharp-Editor-firstpass.dll
+Assembly-CSharp-firstpass.dll
+Assembly-CSharp.dll
+UnityExtensions/
+UnityPluginTest/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.apk
+*.unitypackage
+
+# Rider generated files
+.idea/
+*.csproj.DotSettings.user
+
+# NuGet packages
+packages/
+
+# Others
+*.DS_Store
+.DS_Store
+._*
+*.swp

@@ -1,0 +1,38 @@
+0
+SJNWGMNBLU
+HEXMXYOMSF
+DHLÍETRHKP
+TSXBTCTSZI
+ANWCAIHIPW
+UAFECTUFKQ
+UUTAEMERAM
+QEKHQTYGFC
+OTAEHWSNEN
+UVXALBQACV
+
+1
+-----V----
+----MEAT--
+-----G----
+-----E----
+-SWEETS---
+--H--A---F
+--E--B---R
+--A--L---U
+--T--E---I
+---FISH--T
+2
+NOUN, It comes from treeas and it is very healthy
+NOUN, They are part of a plant and very healthy
+NOUN, A byproduct of animals, it is healthy
+NOUN, A byproduct of acuatic life, very heathy
+NOUN, It is used to make bread and pastries, pretty healthy
+NOUN, Typically made by artificial means, it is best to eat ocasionally
+3
+FRUIT
+VEGETABLES
+MEAT
+FISH
+WHEAT
+SWEETS
+

@@ -1,0 +1,37 @@
+0
+SDMJQTCCIW
+HRTKBPTMUT
+ZIDZWYAFPZ
+VBHLVVCXZG
+FAAJSFLPOC
+GIMHIMEDBV
+ZGSXFOADPZ
+VATHTUONEX
+ZMEPQSSSIR
+HWRSHENJSC
+1
+----H-----
+---CAT----
+--D-M-----
+-MOUSE----
+--G-T-----
+---FE-----
+--BIRD----
+---S------
+---H------
+----------
+2
+NOUN, Animal with four legs, memeber of the canine family
+NOUN, Animal with whiskers, memeber of the feline family
+NOUN, Common rodent in rural places
+NOUN, Small domestic animal, member of the rodent family
+NOUN, Two-legged animal capable of flight
+NOUN, Acuatic animal that can breathe underwater
+3
+DOG
+CAT
+MOUSE
+HAMSTER
+BIRD
+FISH
+
